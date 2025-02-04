@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharmaritik0998
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning python html css and javascript
+- 👀 I’m interested in Ai/ML & Data Science
+- 🌱 I’m currently learning Machine Learning & Data Science 
 - 💞️ I’m looking to collaborate on google microsoft amazon etc.
 - 📫 How to reach me linkdin-www.linkedin.com/in/ritiksharma0998
 
