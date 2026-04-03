@@ -50,7 +50,7 @@
 ---
 
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaritik0998&layout=compact&theme=radical)
+![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaritik0998&layout=compact&theme=radical)
 
 
 ⭐️ From Ritik Sharma
