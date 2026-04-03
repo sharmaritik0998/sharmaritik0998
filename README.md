@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sharmaritik0998/sharmaritik0998/blob/main/YOUR_BANNER.png" width="100%" />
+  <img src="https://github.com/sharmaritik0998/sharmaritik0998/blob/main/Ritik.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
