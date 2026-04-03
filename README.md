@@ -52,6 +52,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sharmaritik0998&theme=radical)
 
 ---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharmaritik0998&theme=react-dark)
+
+---
 
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharmaritik0998&layout=compact&theme=radical)
