@@ -18,7 +18,7 @@
 ## 🧠 Tech Stack
 
 **Languages:**  
-Python | C++ | R | JavaScript  
+Python | C++ | JavaScript  
 
 **Frameworks & Tools:**  
 TensorFlow | Keras | Scikit-Learn | OpenCV | Hugging Face | Streamlit  
@@ -26,34 +26,6 @@ TensorFlow | Keras | Scikit-Learn | OpenCV | Hugging Face | Streamlit
 **Core Skills:**  
 Machine Learning | Deep Learning | Computer Vision | NLP | Feature Engineering  
 
----
-
-## 🔥 Featured Projects
-
-### 🧠 Autonomous AI Data Analyst
-🔗 https://autonomous-ai-data-analyst-ep9gqcryezicdm5nrjmiow.streamlit.app/
-
-- Automated data analysis pipeline using LLMs  
-- Natural language Q&A on datasets  
-- Built with Streamlit + Groq (Llama 3)  
-- End-to-end data workflow automation  
-
----
-
-### 🚗 Vehicle Tracking System (YOLOv8)
-- Real-time object detection & tracking  
-- Lane-wise vehicle counting  
-- Traffic congestion analysis  
-- Optimized for real-time inference  
-
----
-
-### 🧾 NLP Transformer Project
-- Fine-tuned Google Pegasus  
-- 25% improvement in ROUGE score  
-- Reduced compute cost by 40%  
-
----
 
 ## 📈 GitHub Stats
 
@@ -68,6 +40,3 @@ Machine Learning | Deep Learning | Computer Vision | NLP | Feature Engineering
 - LinkedIn: https://linkedin.com/in/sharmaritik0998  
 - Email: sharmaritik0998@gmail.com  
 
----
-
-⭐ "I don’t just build models, I build intelligent systems."
