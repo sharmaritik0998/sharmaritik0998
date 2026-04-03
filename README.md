@@ -12,11 +12,6 @@
 💡 Machine Learning | Data Science | AI  
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharmaritik0998&show_icons=true&theme=radical)
-
----
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaritik0998?theme=dark&font=baloo&ext=heatmap)
 
