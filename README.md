@@ -52,6 +52,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sharmaritik0998&theme=radical)
 
 ---
+## 📊 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharmaritik0998&theme=react-dark)
 
 ---
