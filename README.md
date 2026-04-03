@@ -13,6 +13,22 @@
 
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharmaritik0998&show_icons=true&theme=radical)
+
+---
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaritik0998?theme=dark&font=baloo&ext=heatmap)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=sharmaritik0998&theme=radical)
+
+---
+## 📊 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharmaritik0998&theme=react-dark)
+
 ## 🌱 Currently Learning
 - App Development  
 - Data Structures & Algorithms  
@@ -36,24 +52,6 @@
 ## 🧠 Programming Platforms
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sharmaritik0998/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_LINK)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharmaritik0998&show_icons=true&theme=radical)
-
----
-## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaritik0998?theme=dark&font=baloo&ext=heatmap)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=sharmaritik0998&theme=radical)
-
----
-## 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharmaritik0998&theme=react-dark)
 
 ---
 
