@@ -50,5 +50,6 @@
 
 ---
 ![Visitors](https://komarev.com/ghpvc/?username=sharmaritik0998&color=blue)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sharmaritik0998&theme=radical)
 
 ⭐️ From Ritik Sharma
