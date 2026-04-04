@@ -49,8 +49,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_LINK)
 
 ---
-
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharmaritik0998&layout=compact&theme=radical)
+![Visitors](https://komarev.com/ghpvc/?username=sharmaritik0998&color=blue)
 
 ⭐️ From Ritik Sharma
